@@ -1,0 +1,24 @@
+
+############################################
+               README
+############################################
+Pukka Web Services SYSTEM seeks to improve transactions and records
+safety of every organization.
+
+This software is RESERVED to no IMITIATION
+Copyright 2020
+
+####################################
+                USAGE
+###################################
+1. Create database "shop"
+2. Extract the file shop.sql into your database. PATH = "./public_html/database/shop.sql"
+Login for Admin
+Email: //admin@test.com
+Password: //Admin
+
+// Login for Employee
+Email: //employee@test.com
+Password: //Employee
+
+
