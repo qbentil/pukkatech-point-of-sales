@@ -10,7 +10,7 @@ This software NOT RESERVED to any IMITIATION
 
  ##  INSTALLING XAMPP
 
-***WINDOWS***
+**WINDOWS**
 1. Double-click the file 'xampp-windows-x64-8.0.2-0-VS16-installer.exe' from the "requirements/windows" directory.
 2. Follow the basic installation prompts to install xampp.
 3. Follow the link below to install it if having any difficulties in the steps.
@@ -22,7 +22,7 @@ This software NOT RESERVED to any IMITIATION
     4. Click on "Config" from the top right corner of the window.
     5. Under "auto start modules", check the Apache and mySql check boxes
     6. Click on save.
-***MAC OS***
+**MAC OS**
 1. Run the installer from "requirements/mac"  with the default options
 2. Launch XAMPP
 3. Start the services
@@ -48,17 +48,17 @@ This software NOT RESERVED to any IMITIATION
 5. For "init.sql" or for demo with preloaded data, select "test.sql"
 6. Click on "Go".
 
-***DEFAULT ADMIN LOGIN***
+**DEFAULT ADMIN LOGIN**
 ## Email: admin@test.com
 ## Password: Admin
 
-***DEFAULT EMPLOYESS LOGIN***
+**DEFAULT EMPLOYESS LOGIN**
 ## Email: employee@test.com
 ## Password: employee
 
 
 
 ## Each employee added has a default password as:
-***Def-user***
+**Def-user**
 
 
